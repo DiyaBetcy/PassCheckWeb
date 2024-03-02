@@ -1,4 +1,4 @@
-# PassCheckWeb
+# **PassCheckWeb**
 
 Welcome to the PassWebChecker repository! This web tool is designed to help users assess the strength of their passwords in real-time. The tool provides immediate feedback based on various criteria, offering a visual representation of the password's strength.
 
