@@ -8,14 +8,12 @@ PassCheckWeb is a simple website that checks the strength of passwords based on 
 
 Checks password strength based on the following requirements:
 
-At least 8 characters long
-At least one number
-At least one lowercase letter
-At least one uppercase letter
-At least one special character
-Provides instant feedback on the strength of the password entered
-Requirements dynamically disappear as they are satisfied
-Displays whether the password is strong or weak
+At least 8 characters long.
+At least one number.
+At least one lowercase letter.
+At least one uppercase letter.
+At least one special character.
+Provides instant feedback on the strength of the password entered.Requirements dynamically disappear as they are satisfied.Displays whether the password is strong or weak.
 
 ## License
 
