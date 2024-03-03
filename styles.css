@@ -1,0 +1,34 @@
+.container {
+    max-width: 400px;
+    margin: 50px auto;
+    text-align: center;
+    
+  }
+  
+  input {
+    margin-top: 10px;
+    padding: 10px;
+    
+  }
+  
+  #strengthIndicator {
+    margin-top: 20px;
+    font-weight: bold;
+
+  }
+ body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    
+    background-size: cover;
+    background-image: url(https://img.freepik.com/free-photo/black-background-with-laptop_23-2147615124.jpg?t=st=1709436868~exp=1709440468~hmac=1ef01fa1f9fa1d51b0cb856add766a91bf83673defbb5830f3f0a0b73fa416a5&w=900);
+    background-position: center;
+    position: relative;
+ }
+ h1{
+    color:rgb(25, 11, 79);
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+ }
